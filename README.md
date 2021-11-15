@@ -5,7 +5,7 @@ Analisando os dados com a linguagem Python.
 
 Analisando dados com a linguagem python, utilizando conhecimentos básicos de estatisticas pra tirar informaçoes os dados.  
 
-### 📋 Ferramentas
+### 🛠️ Ferramentas
 
 * Python
 * Pandas
