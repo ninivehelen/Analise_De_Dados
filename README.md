@@ -1,5 +1,5 @@
 # Análise De Dados.
-Analisando os dados com a lingugem Python.
+Analisando os dados com a linguagem Python.
 
 ## 🚀 Começando
 
