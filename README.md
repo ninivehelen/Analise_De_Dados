@@ -3,7 +3,7 @@ Analisando os dados com a linguagem Python.
 
 ## 🚀 Começando
 
-Analisando dados com a linguagem python, utilizando conhecimentos básicos de estatisticas pra tirar informaçoes os dados.  
+Analisando dados com a linguagem python. Utilizando conhecimentos básicos de estatisticas para adquirir informações dos dados.  
 
 ### 🛠️ Ferramentas
 
